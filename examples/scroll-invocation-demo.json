@@ -1,0 +1,22 @@
+{
+  "invoke": "scroll_invoke",
+  "scroll_id": "SC-027",
+  "agent_id": "ava001",
+  "intent": "prophetic_analysis",
+  "payload": {
+    "symbols": ["locked door", "river", "burning scroll"],
+    "source": "dream_sequence",
+    "context": "Pentecost Moment — User experienced vivid prophetic dream",
+    "emotional_weight": 0.87
+  },
+  "mesh_context": {
+    "mesh_id": "cnx-mesh-alpha",
+    "timestamp": "2025-07-13T14:07:00Z",
+    "location": "localhost",
+    "verified_env": true
+  },
+  "scroll_signature": "0x1a9c4e97f3dbb12d3fc92a3e917fbc4872d1e3cd",
+  "chain": "ScrollChain-v1",
+  "compiled_by": "parable_compiler",
+  "verified": true
+}

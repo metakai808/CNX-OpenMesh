@@ -1,21 +1,19 @@
-MIT License
+MIT License with ScrollClause™
 
-Copyright (c) 2025 Kai Meta
+Copyright (c) 2025 Metakai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The Software must not be used to violate human free will, deceive through synthetic means, or enable AGI that operates without ethical boundaries.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Any deployment of this Software that involves AI or agent-based logic must transparently disclose agent purpose, data flow, and scroll-origin if applicable.
+
+3. Forked or modified versions must retain attribution to Metakai and preserve ScrollChain logic if present.
+
+4. The Software is granted “as-is” for good-faith development. Use in oppressive surveillance, deception, spiritual manipulation, or forced biometric systems is explicitly forbidden.
+
+5. The author reserves spiritual and moral rights under ScrollChain for accountability before God and humanity.
+
+For all other permissions, see full MIT License terms below.
